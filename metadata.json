@@ -1,0 +1,5 @@
+{
+  "name": "DesignAI Pro - 智能创意设计平台",
+  "description": "集成了文生图、图生图、视频生成以及灵感搜索的一站式AI创意设计平台。利用Gemini与Veo模型提供专业级设计辅助。",
+  "requestFramePermissions": []
+}
